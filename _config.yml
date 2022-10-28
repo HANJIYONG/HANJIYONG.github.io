@@ -109,10 +109,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:jyong0719@naver.com"
+      url: "mailto:jyong0719@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://velog.io/@jyong0719"
+      url: "https://velog.io/@jyong0719"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -121,10 +121,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/HANJIYONG/"
+      url: "https://github.com/HANJIYONG/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com"
+      url: "https://www.instagram.com"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://velog.io/@jyong0719"
+      url: "https://velog.io/@jyong0719"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -158,10 +158,10 @@ footer:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/HANJIYONG/"
+      url: "https://github.com/HANJIYONG/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com"
+      url: "https://www.instagram.com"
 
 
 # Reading Files
