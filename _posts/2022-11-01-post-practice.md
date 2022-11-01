@@ -1,5 +1,5 @@
 ---
-title: "Post: Modified Date"
+title: "Post: Posting Practice"
 last_modified_at: 2022-11-01T12:34:02-05:00
 categories:
   - Post Formats
