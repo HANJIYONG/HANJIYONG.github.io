@@ -1,10 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap.xml/
+    url: https://scarce-vibraphone-04e.notion.site/JIYONG-HAN_gitblog-a08ac83a344e4c5ab1ffbaccb7960cc3
+    # https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: _posts
+  # - title: "Sample Collections"
+    # url: 
+  # - title: "Sitemap"
+  #   url: /sitemap/
